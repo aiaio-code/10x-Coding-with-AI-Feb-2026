@@ -1,7 +1,7 @@
 You can find the links to all ungraded labs, assignments, and project deliverables below. We will work on Live Labs during our weekly masterclass sessions. 
 The project deliverables will be graded.
 
-**Week 1**
+~~**Week 1**
  * Ungraded Live Labs
     * [Week1 Live - Lab 1] (https://classroom.github.com/a/9Eq2zml1)
     * [Week1 Live - Lab 2] (https://classroom.github.com/a/6ASQPAOt)
@@ -12,7 +12,7 @@ The project deliverables will be graded.
   
 * Graded Project
      * [Project Repo] (https://github.com/SarasAI-Institute/10x-engineer-project-repo)
-     * <u>You can use the same link to access all the deliverables of the project.</u>
+     * <u>You can use the same link to access all the deliverables of the project.</u>~~
 
 **Week 2**
 * Ungraded Live Labs
